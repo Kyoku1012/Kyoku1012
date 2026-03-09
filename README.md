@@ -37,5 +37,6 @@
 
 Nice to meet you all! 👋 (´･ω･`)
 
+<img width="233" height="308" alt="IMG_Cosplay" src="https://github.com/user-attachments/assets/372363aa-ef38-447b-9fdc-f9989c176324" />
 
 
