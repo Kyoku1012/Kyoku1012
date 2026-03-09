@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Kyoku1012/Kyoku1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Qu Mengke, you can call me Miki or Amber! (●°u°●)​ 」
+## 👋 Hi, I'm Qu Mengke, you can call me Miki or Amber! (●°u°●)​ 」
 
 🎓 Program: Master of Computer Science (Applied Computing)
 📍 Semester: Sem 1, March Intake
 🏡 Hometown: Luoyang, China
-💻 
+
 
 ---
 
