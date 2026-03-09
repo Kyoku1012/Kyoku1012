@@ -37,8 +37,5 @@
 
 Nice to meet you all! 👋 (´･ω･`)
 
-![IMG_Cosplay_Qu](https://github.com/user-attachments/assets/6b19a277-f0ab-42ba-bbcf-1700fba39928)
-
-![IMG_AboutMe_Qu](https://github.com/user-attachments/assets/6281455c-9623-4771-9cf2-a2880bcb143c)
 
 
